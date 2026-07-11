@@ -1,0 +1,10 @@
+=== Simulated Credential Log (Example Only - Not Real Captured Data) ===
+2026-07-10 09:14:22 | username: ali_khan99     | password: ********
+2026-07-10 09:16:47 | username: sara_ahmed      | password: ********
+2026-07-10 09:21:03 | username: test_user01     | password: ********
+2026-07-10 09:25:58 | username: student_portal  | password: ********
+========================================================================
+NOTE: This file was manually written for demonstration purposes as part
+of an OOP academic project. It illustrates what an attacker's log file
+would typically contain in a real phishing attack — it does NOT contain
+any real, captured, or live credential data.
